@@ -1,0 +1,9 @@
+How to move:
+Arrow keys
+
+What you're supposed to see, is the bastard child of what I had originally envisioned. There are three models that for some reason aren't affected by the Cel Shading that are rotating around the world. There's also a torus that of course works with the shader. There's also green grass that has detail textures and a blue-ish clear color. 
+
+The only highlights are the faults. 
+
+Challenges:
+Object loading gave me a bunch of issues. There was of course no thought out plan of the layout beforehand. So fighting my own procrastination was an issue. So now I get to be in your fan club! 
