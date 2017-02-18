@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Animations>
+<!-- Animation for Idle Clover -->
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame AnchorX="8" AnchorY="703" PosX="0" PosY="667" Width="17" Height="39" CollisionX="0" CollisionY="667"
+CollisionWidth="17" CollisionHeight="39" Time="1.0f" EventID="1"/>
+  </Animation>
+<!-- Animation for Moving Clover -->
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame AnchorX="23" AnchorY="703" PosX=""/>
+  <Frame AnchorX="42" AnchorY="703" PosX=""/>
+  <Frame AnchorX="66" AnchorY="703" PosX=""/>
+  <Frame AnchorX="82" AnchorY="703" PosX=""/>
+  <Frame AnchorX="101" AnchorY="703" PosX=""/>
+  <Frame Anchorx="123" AnchorY="703" PosX=""/>
+  </Animation>
+<!-- Animation for Shooting Clover -->
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame AnchorX="29" AnchorY="650" PosX=""/>
+  </Animation>
+<!-- Animation for Wall Hug Clover -->
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame AnchorX="14" AnchorY="50" PosX=""/>
+  </Animation>
+<!-- Animation for Jumping Clover -->
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame AnchorX="20" AnchorY="270" PosX=""/>
+  </Animation>
+<!-- Animation for Climb Up Clover -->
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame AnchorX="7" AnchorY="480" PosX=""/>
+  <Frame AnchorX="28" AnchorY="480"/>
+  <Frame AnchorX="44" AnchorY="480" PosX=""/>
+  <Frame AnchorX="60" AnchorY="480" PosX=""/>
+  <Frame AnchorX="80" AnchorY="480" PosX=""/>
+  <Frame AnchorX="101" AnchorY="480" PosX=""/>
+  <Frame AnchorX="123" AnchorY="480" PosX=""/>
+  <Frame AnchorX="150" AnchorY="480" PosX=""/>
+  <Frame AnchorX="170" AnchorY="480" PosX=""/>
+  </Animation>
+<!-- Animation for Climb Down (reverse) Clover -->
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame AnchorX="170" AnchorY="480" PosX=""/>
+  <Frame AnchorX="150" AnchorY="480" PosX=""/>
+  <Frame AnchorX="123" AnchorY="480" PosX=""/>
+  <Frame AnchorX="101" AnchorY="480" PosX=""/>
+  <Frame AnchorX="80" AnchorY="480" PosX=""/>
+  <Frame AnchorX="60" AnchorY="480" PosX=""/>
+  <Frame AnchorX="44" AnchorY="480" PosX=""/>
+  <Frame AnchorX="28" AnchorY="480"/>
+  <Frame AnchorX="7" AnchorY="480" PosX=""/>
+  </Animation>
+<!-- Animation for Shimmy Clover --> 
+  <Animation FilePath="Resources/Graphics/GI_clover.png">
+  <Frame />
+  <Frame />
+  <Frame />
+  <Frame />
+  <Frame />
+  </Animation>
+</Animations>
